@@ -26,27 +26,28 @@ This project implements a manually designed n-bit Arithmetic Logic Unit (ALU) in
 
 ## Ripple-Carry Adder
 
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Carry_Ripple_block_diagram.png" />
+<img width="800" height="600" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Carry_Ripple_block_diagram.png" />
 
 The arithmetic unit is implemented using a ripple-carry architecture built from chained full adders.
 
-## Logic Unit
+## Logic Unit (1-bit and 4-bits)
 
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Logic_Unit.png" />
+<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Logic_Unit.png" /> <img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Logic_Unit_4-bits.png" />
 
-## MUX
 
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/MUX.png" />
+## MUX (1-bit and 4-bits)
+
+<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/MUX.png" /> <img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/MUX_4-bits.png" />
 
 
 ## Half Adder
 
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Half_Adder.png" />
+<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Half_Adder.png" />
 
 
 ## Full Adder
 
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Full_Adder.png" />
+<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Full_Adder.png" />
 
 ## Technologies
 
