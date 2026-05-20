@@ -54,12 +54,6 @@ Implementation:
 
 <img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/ALU_4-bits.png" />
 
-## 1-bit ALU
-
-Implementation:
-
-<img width="1200" height="800" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/ALU_1-bit.png" />
-
 ## B-logic unit (1-bit and 4-bits)
 Supported operations, Truth table, K-map:
 
@@ -100,6 +94,9 @@ Implementation:
 
 
 ## Logical Unit 
+
+The logical unit supports AND, OR, XOR, and NOT operations.
+
 Supported operations, Truth table, K-map:
 
 <img width="307" height="195" alt="download" src="https://github.com/user-attachments/assets/70029487-d278-4bf3-8ba9-87da2fff3c5b" /> <img width="212" height="190" alt="LogUn_k-map" src="https://github.com/user-attachments/assets/0844ec87-9cd4-49ff-94f3-c1ee934cfc2c" />  <img width="164" height="267" alt="Logical_Unit" src="https://github.com/user-attachments/assets/a504f353-bf9c-457c-89f2-6ed94249dc05" />
@@ -112,6 +109,8 @@ Implementation (1-bit and 4-bits):
 
 ## MUX (1-bit and 4-bits)
 
+The 2:1 multiplexer selects either the arithmetic unit output or the logical unit output depending on the control signal S2.
+
 Truth table, K-map:
 
 <img width="239" height="238" alt="Mux_truth" src="https://github.com/user-attachments/assets/0532b2ff-c1b6-43ab-90ee-c991ec735189" />
@@ -123,15 +122,6 @@ Implementation (1-bit and 4-bits):
 
 <img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/MUX.png" /> <img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/MUX_4-bits.png" />
 
-
-## Half Adder
-
-<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Half_Adder.png" />
-
-
-## Full Adder
-
-<img width="500" height="300" alt="General" src="https://github.com/PavelVorobevAL/Arithmetic-Logic-Unit-ALU-Design-in-Logisim/blob/main/screenshoots/Full_Adder.png" />
 
 ## Technologies
 
